@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c449c4e254582ab43967a86490801137, type: 3}
+  m_Name: OrcArcher
+  m_EditorClassIdentifier: 
+  _activeAbilities:
+  - {fileID: 11400000, guid: bb14b053fd8c2594bab64a9fd244f84a, type: 2}
+  - {fileID: 11400000, guid: 8186aa878c6d62f479ca65903a506be6, type: 2}
+  _passiveAbilities:
+  - {fileID: 11400000, guid: 7fa30be3e6dfe624b9166364231d3b27, type: 2}

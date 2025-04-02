@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19663850a011dd489e62cb84a7a2d71, type: 3}
+  m_Name: SpritesConfig
+  m_EditorClassIdentifier: 
+  _configs:
+  - _id: 0
+    _name: HumanWarrior
+    _sprite: {fileID: 272860362, guid: 8b548bfbc6e2aef4a810c4301fd7a92c, type: 3}
+  - _id: 1
+    _name: HumanArcher
+    _sprite: {fileID: 1852322639, guid: 8b548bfbc6e2aef4a810c4301fd7a92c, type: 3}
+  - _id: 2
+    _name: HumanMage
+    _sprite: {fileID: -138219258, guid: 8b548bfbc6e2aef4a810c4301fd7a92c, type: 3}
+  - _id: 3
+    _name: OrcWarror
+    _sprite: {fileID: -1580258307, guid: 8b548bfbc6e2aef4a810c4301fd7a92c, type: 3}
+  - _id: 4
+    _name: OrcArcher
+    _sprite: {fileID: -84647182, guid: 8b548bfbc6e2aef4a810c4301fd7a92c, type: 3}
+  - _id: 5
+    _name: OrcMage
+    _sprite: {fileID: 718823719, guid: 8b548bfbc6e2aef4a810c4301fd7a92c, type: 3}
+  - _id: 6
+    _name: UndeadWarrior
+    _sprite: {fileID: 113222505, guid: 8b548bfbc6e2aef4a810c4301fd7a92c, type: 3}
+  - _id: 7
+    _name: UndeadArcher
+    _sprite: {fileID: -1922033746, guid: 8b548bfbc6e2aef4a810c4301fd7a92c, type: 3}
+  - _id: 8
+    _name: UndeadMage
+    _sprite: {fileID: 2003560056, guid: 8b548bfbc6e2aef4a810c4301fd7a92c, type: 3}
