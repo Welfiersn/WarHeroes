@@ -1,0 +1,44 @@
+# ========== UNITY ==========
+[Libraries]
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+
+[Unity]
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.unityproj
+
+# Ignore generated files by Unity
+*.csproj
+*.sln
+*.suo
+*.user
+*.unitypackage
+*.apk
+*.aab
+
+# Crash and debug logs
+*.stacktrace
+
+# ========== VISUAL STUDIO / VS CODE ==========
+[VisualStudio]
+.vscode/
+.vs/
+*.DotSettings
+
+# ========== SYSTEM FILES ==========
+[System]
+.DS_Store
+Thumbs.db
+*.log
+
+# ========== GIT ==========
+[Git]
+*.orig
+*.rej
